@@ -11,3 +11,6 @@
 - Link: (https://docs.google.com/forms/d/e/1FAIpQLSfHDAn4hJFLZpN6ZS5CvzdDV1Vv8fv_-qQMGWgtvwiLYm5_sw/viewform?usp=header)
 - Giới hạn tối đa: 80 sinh viên
 - Đủ thông tin: mã SV, họ tên, phái, ngày sinh, nơi sinh, ngành, mã lớp, GV cố vấn, email, điện thoại
+## Bài 2:Trang giới thiệu bàn thân
+-nền tảng : Google Sites
+-Link :https://sites.google.com/student.ctu.edu.vn/gioi-thieu-dang-thuy-trang/trang-ch%E1%BB%A7
