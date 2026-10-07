@@ -14,3 +14,5 @@
 ## Bài 2:Trang giới thiệu bàn thân
 -nền tảng : Google Sites
 -Link :https://sites.google.com/student.ctu.edu.vn/gioi-thieu-dang-thuy-trang/trang-ch%E1%BB%A7
+## Bài 4: Quản lý dự án dựa trên Trello hoặc nền tảng khác
+https://trello.com/invite/b/6ac65f8d6a507cf95493605e/ATTIb85a29943ee50895ad0ca26062779883FC98811F/cac-mối-de-dọa-an-ninh-mạng-tren-mạng-xa-hội
