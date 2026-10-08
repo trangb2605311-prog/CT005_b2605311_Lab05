@@ -6,3 +6,5 @@ https://www.facebook.com/profile.php?id=61595058336809
 ## 2. Nhóm zalo
 -tên nhóm : TTDPT K52
 -link nhóm :https://zalo.me/g/vugurjoqdeojdcrtglrk 
+## 3. video youtube
+https://m.youtube.com/watch?si=rsXFOitNnBdaeolU&v=Zr35FnSdT9g&feature=youtu.be
